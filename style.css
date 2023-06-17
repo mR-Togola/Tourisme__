@@ -1,0 +1,56 @@
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #FF9900; /* Orange */
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    background-color: #FF9900; /* Orange */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Styles spécifiques */
+  h1, h2 {
+    margin-top: 0;
+    color: #FF9900; /* Orange */
+  }
+  
+  #accueil {
+    background-color: #fff; /* Blanc */
+    padding: 20px;
+  }
+  
+  /* Autres styles spécifiques à chaque section */
